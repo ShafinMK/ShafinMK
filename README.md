@@ -37,8 +37,8 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp6271675.png" alt="">
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafinmk&show_icons=true&locale=en&layout=compact" alt="shafinmk" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafinmk&show_icons=true&locale=en&layout=compact" alt="shafinmk" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinmk&show_icons=true&locale=en" alt="shafinmk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinmk&show_icons=true&locale=en" alt="shafinmk" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafinmk&" alt="shafinmk" /></p>
