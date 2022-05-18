@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Khandakar Md Shafin</h1>
 <h3 align="center">A beginner frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+
+<div style="display: flex; justify-content: center;"><img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47943gc00cigvsylxdviicilhm73eed33xgjobvx10&rid=giphy.gif&ct=g" alt=""></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafinmk&label=Profile%20views&color=0e75b6&style=flat" alt="shafinmk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafinmk" alt="shafinmk" /></a> </p>
