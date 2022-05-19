@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khandakar <span style="color:blue">Md Shafin</span> </h1>
-<h3 align="center">A beginner web developer from Bangladesh</h3>
+<h3 align="center">A beginner web developer</h3>
 
 <p align="center">
  <img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47943gc00cigvsylxdviicilhm73eed33xgjobvx10&rid=giphy.gif&ct=g" alt="">
@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **shafinmuhammad28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n2SFhjRhiEdQ65YVzlOIP3-ERJfW3qTt/view?usp=sharing](https://drive.google.com/file/d/1n2SFhjRhiEdQ65YVzlOIP3-ERJfW3qTt/view?usp=sharing)
+- 📄 My CV [https://drive.google.com/file/d/1n2SFhjRhiEdQ65YVzlOIP3-ERJfW3qTt/view?usp=sharing](https://drive.google.com/file/d/1n2SFhjRhiEdQ65YVzlOIP3-ERJfW3qTt/view?usp=sharing)
 
-- ⚡ Fun fact **I am trying to work hard but I'm kinda lazzy.**
+- ⚡ Fun fact : **I am trying to work hard but I'm kinda lazzy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,10 +40,10 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp6271675.png" alt="">
 </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafinmk&show_icons=true&locale=en&layout=compact" alt="shafinmk" /></p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafinmk&show_icons=true&locale=en&layout=compact" alt="shafinmk" /></p>
+<!--
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinmk&show_icons=true&locale=en" alt="shafinmk" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinmk&show_icons=true&locale=en" alt="shafinmk" /></p> -->
-
-
+   
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafinmk&" alt="shafinmk" /></p>
