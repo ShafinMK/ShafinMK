@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Khandakar Md Shafin</h1>
 <h3 align="center">A beginner Fullstack developer</h3>
-
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)" alt="Material Bread logo">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafinmk&label=Profile%20views&color=0e75b6&style=flat" alt="shafinmk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafinmk" alt="shafinmk" /></a> </p>
